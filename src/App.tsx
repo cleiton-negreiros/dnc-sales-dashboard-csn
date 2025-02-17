@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import { Login, Registration, Home, Leads, Profile } from '@/pages'
+import { Login, Registration, Home, Leads, Profile } from './pages'
 
 function App() {
   return (
